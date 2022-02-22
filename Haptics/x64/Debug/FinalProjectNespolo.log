@@ -1,0 +1,11 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  LoadFile.cpp
+c:\users\student\documents\github\rogerionespolo\uic\523 - haptics\finalprojectnespolo\src\loadfile.cpp(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+hdu.lib(hduAfx.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduAfx.obj)' or at 'C:\Users\student\Documents\GitHub\RogerioNespolo\UIC\523 - Haptics\FinalProjectNespolo\x64\Debug\HDU.pdb'; linking object as if no debug info
+hdu.lib(hduLine.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduLine.obj)' or at 'C:\Users\student\Documents\GitHub\RogerioNespolo\UIC\523 - Haptics\FinalProjectNespolo\x64\Debug\HDU.pdb'; linking object as if no debug info
+hdu.lib(hduLineSegment.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduLineSegment.obj)' or at 'C:\Users\student\Documents\GitHub\RogerioNespolo\UIC\523 - Haptics\FinalProjectNespolo\x64\Debug\HDU.pdb'; linking object as if no debug info
+hdu.lib(hduQuaternion.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduQuaternion.obj)' or at 'C:\Users\student\Documents\GitHub\RogerioNespolo\UIC\523 - Haptics\FinalProjectNespolo\x64\Debug\HDU.pdb'; linking object as if no debug info
+  FinalProjectNespolo.vcxproj -> C:\Users\student\Documents\GitHub\RogerioNespolo\UIC\523 - Haptics\FinalProjectNespolo\x64\Debug\FinalProjectNespolo.exe

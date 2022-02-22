@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+d:\github\rogerio nespolo\uic\523 - haptics\finalprojectnespolo\src\main.cpp(23): fatal error C1083: Cannot open include file: 'al.h': No such file or directory
+  LoadFile.cpp
+d:\github\rogerio nespolo\uic\523 - haptics\finalprojectnespolo\src\loadfile.cpp(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...

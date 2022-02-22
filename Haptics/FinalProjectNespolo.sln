@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalProjectNespolo", "FinalProjectNespolo.vcxproj", "{8D828EF8-4889-4C5A-A6AE-457FF3812C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugAcademicEdition|x64 = DebugAcademicEdition|x64
+		DebugAcademicEdition|x86 = DebugAcademicEdition|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ReleaseAcademicEdition|x64 = ReleaseAcademicEdition|x64
+		ReleaseAcademicEdition|x86 = ReleaseAcademicEdition|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Debug|x64.ActiveCfg = Debug|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Debug|x64.Build.0 = Debug|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Debug|x86.Build.0 = Debug|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.DebugAcademicEdition|x64.ActiveCfg = DebugAcademicEdition|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.DebugAcademicEdition|x64.Build.0 = DebugAcademicEdition|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.DebugAcademicEdition|x86.ActiveCfg = DebugAcademicEdition|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.DebugAcademicEdition|x86.Build.0 = DebugAcademicEdition|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Release|x64.ActiveCfg = Release|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Release|x64.Build.0 = Release|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Release|x86.ActiveCfg = Release|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.Release|x86.Build.0 = Release|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.ReleaseAcademicEdition|x64.ActiveCfg = ReleaseAcademicEdition|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.ReleaseAcademicEdition|x64.Build.0 = ReleaseAcademicEdition|x64
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.ReleaseAcademicEdition|x86.ActiveCfg = ReleaseAcademicEdition|Win32
+		{8D828EF8-4889-4C5A-A6AE-457FF3812C12}.ReleaseAcademicEdition|x86.Build.0 = ReleaseAcademicEdition|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F18CE2E-7734-4887-9C66-A7E84C9BABC3}
+	EndGlobalSection
+EndGlobal
