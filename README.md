@@ -1,6 +1,6 @@
-# General repository with some of my developed work.
+## General repository with some of my developed work
 
-## Description of the content of each folder:
+### Description of the content of each folder:
 - ML_DL
 - Classic Computer Vision
 - Haptics
